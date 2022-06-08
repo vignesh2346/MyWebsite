@@ -1,0 +1,151 @@
+.Top_container {
+  background-color: #C2DED1;
+  position: relative;
+}
+
+.Middle_container {
+
+  position: relative;
+  padding-top: 20px;
+
+
+}
+h2
+{
+  font-size: 2REM;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+
+
+.Bottom_container {
+background-color: #66BFBF;
+padding-bottom: 30px;
+
+}
+
+
+body {
+  margin-top: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  padding-top: 80px;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+
+}
+
+h3{
+ color: #11999E;
+
+}
+.footer-link{
+  color: #11999E;
+  width: 150px;
+  display: inline-block;
+}
+.Cloud2 {
+  position: absolute;
+  left: 300px;
+  top: 250px;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 40px;
+  left: 1050px;
+}
+
+.cloud3{
+  height: auto;
+  width: auto;
+
+}
+
+.me{
+  height:100px;
+  width:100px;
+  image-resolution: from-image;
+}
+
+
+hr{
+  width: 60px;
+  border-style: dotted;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-width: 5px;
+  color: #EAF6F6;
+
+}
+.skills{
+
+ padding-bottom: 10px;
+
+}
+.contact-me{
+  margin-top: 0;
+  padding-top: 25px;
+  padding-bottom: 40px;
+
+
+  }
+
+.skill-row{
+ margin-top: 0;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 60px;
+  width: 50%;
+
+  text-align: left;
+  line-height: 2;
+
+
+
+
+}
+.codeimage{
+width: 18%;
+float: left;
+margin-right: 30px;
+
+}
+
+.developmentimage{
+width: 18%;
+float: right;
+}
+
+.btn{
+  background-color: #66BFBF;
+  color: white;
+  padding: 8px;
+  border-radius: 8%;
+  background-image: linear-gradient(#11cdd4,#11999e);
+}
+.lastpara{
+  color: #EAF6F6;
+}
+
+.firstpara{
+width: 30%;
+display: inline-block;
+}
+
+
+a:hover
+{
+  background-color: #30e3cb;
+}
